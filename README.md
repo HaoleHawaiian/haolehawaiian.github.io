@@ -2,12 +2,13 @@
 
 ### Education
 MS Analytics, Georgia Institute of Technology
+BS Computer Science, Brigham Young University - Hawai'i
 
 ### Work Experience
-Netbase Quid - Senior Business Analyst
-November 2021 - Current
+Netbase Quid - Senior Business Analyst  
+November 2021 - Current  
 ● Developed, validated, and deployed new sales forecasting machine learning models, reducing average
-error from +16% to +1.5%
+error from +16% to +1.5%  
 ● Identified waste in the sales forecasting process through data collection, exploration and financial
 model prototyping leading to a more scalable process, reducing time spent on forecasting tasks by 80%
 ● Owned weekly sales forecasting, working with cross-functional partners to gather and refine
