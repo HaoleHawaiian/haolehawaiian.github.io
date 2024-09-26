@@ -6,9 +6,10 @@
 writing. The users get sentiment counts along with highlighted words associated with the count, a summary of
 what they wrote, ratio comparisons of sentiments, a list of ambiguous words to update to make their message
 more clear, and a writing trajectory which measures message valence by sentence. The report can be exported
-to HTML for further internal use. (The [US Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript) is a great sample, takes about 21 seconds)
+to HTML for further internal use. (The [US Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript) is a great sample, takes about 21 seconds)   
 
-
+**[Complainalyzer](https://public.tableau.com/app/profile/hillary.latham5228/viz/Complainalyzer/Complainalyzer)**
+- Our goal was to transform the way consumer finance complaints (1.6 GB) from the Consumer Finance Protection Bureau (CFPB) database are visualized, understood, and addressed. Using Tableau, Python, and R, we highlight patterns and trends in customer complaints (LDA, VADER, bigram analysis), predict future complaint trajectories (Prophet, ARIMA), and offer actionable insights and areas for improvement. To supplement the Tableau dashboard above, we have an accompanying write-up and poster.
 
 ### Education
 - MS Analytics, Georgia Institute of Technology  
