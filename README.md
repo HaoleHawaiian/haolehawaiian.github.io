@@ -1,8 +1,8 @@
 # Data Science Enthusiast
 
 ### Education
-MS Analytics, Georgia Institute of Technology
-BS Computer Science, Brigham Young University - Hawai'i
+MS Analytics, Georgia Institute of Technology  
+BS Computer Science, Brigham Young University - Hawai'i  
 
 ### Work Experience
 Netbase Quid - Senior Business Analyst  
