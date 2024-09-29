@@ -98,11 +98,11 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
-		background-color: #220e69;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #8c7ab1 15%, #220e69 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #8c7ab1 15%, #220e69 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #8c7ab1 15%, #220e693 85%);
+	body { 
+		background-color: #8c7ab1; /* A lighter lavender shade */
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #8c7ab1 15%, #220e69 85%); 
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #8c7ab1 15%, #220e69 85%); 
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #8c7ab1 15%, #220e69 85%); 
 		background-image: url("images/overlay.png"), linear-gradient(45deg, #8c7ab1 15%, #220e69 85%);
 	}
 
