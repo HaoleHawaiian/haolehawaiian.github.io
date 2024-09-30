@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body { 
 		<!-- background-color: #8c7ab1; /* A lighter lavender shade */ -->
-		background-image: url("images/overlay.png"), -moz-linear-gradient(to bottom, #160845 15%, #8c7ab1 85%); 
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(to bottom, #160845 15%, #8c7ab1 85%); 
-		background-image: url("images/overlay.png"), -ms-linear-gradient(to bottom, #160845 15%, #8c7ab1 85%); 
-		background-image: url("images/overlay.png"), linear-gradient(to bottom, #160845 15%, #8c7ab1 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(to bottom, #160845 85%, #8c7ab1 15%); 
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(to bottom, #160845 85%, #8c7ab1 15%); 
+		background-image: url("images/overlay.png"), -ms-linear-gradient(to bottom, #160845 85%, #8c7ab1 15%); 
+		background-image: url("images/overlay.png"), linear-gradient(to bottom, #160845 85%, #8c7ab1 15%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
