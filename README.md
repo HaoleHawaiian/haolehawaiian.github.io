@@ -1,6 +1,9 @@
 # Data Science Enthusiast
 
 ### Projects
+**[Breaking Grad(ients)](https://haolehawaiian.github.io/assets/Breaking_Grad(ients).pdf)**
+This Deep Learning project explores the effects of Fast Gradient Sign Method attacks on pre-trained models such as EfficientNet, Data Efficient Image Transformers, and our own custom JuanchitoCNN. We wanted to show how these models react to the common white-box attack of FGSM when discriminating between AI generated and naturally generated images.
+
 **[Sentimental](https://sentimental-post.shinyapps.io/Sentimental/)**  
 This R Shiny tool is for blog writers and email marketers to see the sentiment and flow of their writing. The users get sentiment counts along with highlighted words associated with the count, a summary of what they wrote, ratio comparisons of sentiments, a list of ambiguous words to update to make their message more clear, and a writing trajectory which measures message valence by sentence. (The [US Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript) is a great sample, takes about 21 seconds)
 
