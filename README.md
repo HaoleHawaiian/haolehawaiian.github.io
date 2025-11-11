@@ -36,11 +36,9 @@ This statistical analysis compares different pandemic scenarios and compares the
 - Assist in curriculum development and updates, grading, teaching, and monitoring student forums  
 
 **Netbase Quid - Senior Business Analyst (_November 2021 - November 2024_)** 
-- Developed, validated, and deployed new sales forecasting machine learning models, reducing average error from +16% to +1.5%  
-- Identified waste in the sales forecasting process through data collection, exploration and financial model prototyping leading to a more scalable process, reducing time spent on forecasting tasks by 80%  
-- Owned weekly sales forecasting, working with cross-functional partners to gather and refine requirements, and present to the C-suite and senior leadership  
-- Communicated and presented internally the weekly forecasting data summary, monthly revenue data and trends, and monthly software/service breakdown to executive stakeholders  
-- Coordinated new Professional Services strategy among accounting, services, and sales operations teams, leading to a 50% reduction in time spent processing and a 90% reduction in by-hand errors  
+- Developed and deployed forecasting ML models in Python, reducing average error from +16% to +1.5%  
+- Identified waste in forecasting process through data collection, exploration and financial model prototyping leading to a more scalable process, reducing time spent on forecasting tasks by 80%  
+- Led financial and accounting forecasting using data-driven insights; designing and implementing process improvements with cross-functional teams that reduced processing time by 50% and manual errors by 90%, presenting results to C-suite stakeholders  
 
 **iPayables - Digital Marketing Analyst, Sales Operations Analyst  (_April 2019 - October 2021_)**  
 - Developed and implemented A/B tests (DOE) for evaluating the performance of marketing assets, resulting in an increase of click-through rates from 5% to 13% on ads, and 15% to 22% on whitepapers
