@@ -25,7 +25,17 @@ This statistical analysis compares different pandemic scenarios and compares the
 - BS Computer Science, Brigham Young University - Hawai'i  
 
 ### Work Experience
-**Netbase Quid - Senior Business Analyst (_November 2021 - Current_)** 
+**Paramark - Founding Solutions Engineer (_May 2025 - Current_)**
+- Lead the design and analysis of marketing experiments, ensuring statistical rigor through power analysis and significance testing  
+- Build and maintain end-to-end data workflows for customer marketing datasets, ETL, EDA, ML model training, and performance evaluation  
+- Collaborate with Prod and Growth teams to translate data into actionable insights, directly influencing product roadmap and customer decision-making  
+- Help hire, train, and mentor new engineers, and develop team processes and documentation  
+
+**Georgia Tech Institute of Technology - Instructional Associate (_June 2024 - Current_)**
+- Teach data science, machine learning, and business analytics concepts to entry level students  
+- Assist in curriculum development and updates, grading, teaching, and monitoring student forums  
+
+**Netbase Quid - Senior Business Analyst (_November 2021 - November 2024_)** 
 - Developed, validated, and deployed new sales forecasting machine learning models, reducing average error from +16% to +1.5%  
 - Identified waste in the sales forecasting process through data collection, exploration and financial model prototyping leading to a more scalable process, reducing time spent on forecasting tasks by 80%  
 - Owned weekly sales forecasting, working with cross-functional partners to gather and refine requirements, and present to the C-suite and senior leadership  
@@ -35,5 +45,3 @@ This statistical analysis compares different pandemic scenarios and compares the
 **iPayables - Digital Marketing Analyst, Sales Operations Analyst  (_April 2019 - October 2021_)**  
 - Developed and implemented A/B tests (DOE) for evaluating the performance of marketing assets, resulting in an increase of click-through rates from 5% to 13% on ads, and 15% to 22% on whitepapers
 - Formalized reporting, centralized data into HubSpot, and created redundancies for regular data quality checks leading to a sales pipeline increase of over 20%, as well as a 541% increase sales leads  
-
-
