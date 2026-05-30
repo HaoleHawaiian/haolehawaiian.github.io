@@ -2,7 +2,8 @@
 
 ### Projects
 **[Breaking Grad(ients)](https://haolehawaiian.github.io/assets/Breaking_Grad(ients).pdf)**
-This Deep Learning project explores the effects of Fast Gradient Sign Method attacks on pre-trained models such as EfficientNet, Data Efficient Image Transformers, and our own custom JuanchitoCNN. We wanted to show how these models react to the common white-box attack of FGSM when discriminating between AI generated and naturally generated images.
+Evaluates Fast Gradient Sign Method attacks on benchmark models such as EfficientNet, Data Efficient Image Transformers, and a custom built CNN. We describe model evaluation, attack generation, and comparative performance analysis when discriminating between AI and naturally generated images.
+
 
 **[Sentimental](https://sentimental-post.shinyapps.io/Sentimental/)**  
 This R Shiny tool is for blog writers and email marketers to see the sentiment and flow of their writing. The users get sentiment counts along with highlighted words associated with the count, a summary of what they wrote, ratio comparisons of sentiments, a list of ambiguous words to update to make their message more clear, and a writing trajectory which measures message valence by sentence. (The [US Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript) is a great sample, takes about 21 seconds)
@@ -11,7 +12,8 @@ This R Shiny tool is for blog writers and email marketers to see the sentiment a
 Our goal was to transform the way consumer finance complaints from the Consumer Finance Protection Bureau (CFPB) database are visualized, understood, and addressed. We highlight patterns and trends in customer complaints using techniques such as LDA, VADER, and Bigram Analysis; and we continue to predict future complaint trajectories through Facebook Prophet and ARIMA. To supplement the Tableau dashboard above, we have an accompanying [write-up](https://github.com/HaoleHawaiian/haolehawaiian.github.io/blob/main/assets/Complainalyzer%20Write%20Up) and [poster](https://github.com/HaoleHawaiian/haolehawaiian.github.io/blob/main/assets/Complainalyzer%20Poster.pdf).
 
 **[Pokemon Team Generator](https://pokemon-team-maker.streamlit.app/)**  
-This project takes personality inputs from a user, compares them to the Pokedex descriptions for each Pokemon, then returns a team based on cosine similarity. The project utilizes natural language processing techniques such as Bag of Words, Term Frequency Inverse Document Frequency, GloVe, and BERT.
+Utilizes APIs to gather detailed Pokemon data to vectorize, match, and rank semantic similarity to freeform user input in real time, generating a team of Pokemon. The project utilizes NLP techniques such as Term Frequency-Inverse Document Frequency (TF-IDF) and DistillBERT.
+
 
 **[Confusion Matrix Scaler](https://sentimental-post.shinyapps.io/ConfusionMatrixScaler/)**  
 This R Shiny tool is for scaling a confusion matrix up or down. I use the Scaler for compensating inaccuracies in a training/testing matrix against a new binary classification prediction. If my accuracy in training/testing is anything other than 100%, I want to be able to break down how many of the Predicted Positives and Predicted Negatives are likely to be False Positives and False Negatives. I use this on sales pipelines, after using classification methods to predict which deals will are likely to be closed won and which are likely to be closed lost.
