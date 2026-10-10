@@ -23,7 +23,7 @@ This statistical analysis compares different pandemic scenarios and compares the
 
 
 ### Education
-- MS Analytics, Georgia Institute of Technology  
+- MS Data Science & Analytics, Georgia Institute of Technology  
 - BS Computer Science, Brigham Young University - Hawai'i  
 
 ### Work Experience
@@ -33,7 +33,7 @@ This statistical analysis compares different pandemic scenarios and compares the
 - Collaborate with Prod and Growth teams to translate data into actionable insights, directly influencing product roadmap and customer decision-making  
 - Help hire, train, and mentor new engineers, and develop team processes and documentation  
 
-**Georgia Tech Institute of Technology - Instructional Associate (_June 2024 - Current_)**
+**Georgia Tech Institute of Technology - Instructional Associate (_June 2024 - January 2026_)**
 - Teach data science, machine learning, and business analytics concepts to entry level students  
 - Assist in curriculum development and updates, grading, teaching, and monitoring student forums  
 
